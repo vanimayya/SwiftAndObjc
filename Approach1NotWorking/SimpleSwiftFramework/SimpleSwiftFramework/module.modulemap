@@ -1,0 +1,4 @@
+module SampleObjcLibrary {
+    header "./ObjLib/SampleObjcLibrary.h"
+    export *
+}
